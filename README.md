@@ -11,7 +11,9 @@ Tomorrow Night color scheme
 
 
 Shortcuts
+
 Shift + Command + P: Command Palette
+
 Command + T: Go to File
 Command + R: Go to Symbol
 Command + P: Go to Anything
