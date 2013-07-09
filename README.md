@@ -44,6 +44,9 @@ https://medium.com/kr-projects/4f06541322a8
 
 http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
 
+###REPL
+https://github.com/wuub/SublimeREPL
+
 
 ###Plugins
 
