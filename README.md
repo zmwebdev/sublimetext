@@ -13,18 +13,28 @@ $ cd $HOME/.config/sublime-text-2/Packages/User
 $ curl -O https://raw.github.com/irakasleibiltaria/sublimetext/master/Preferences.sublime-settings
 ```
 
+###Shortcuts
+```bash
+Shift + Command + P: Command Palette
+Shift + Command + P, side : toggle side bar
+
+layout: (view->layout)
+Shift + alt + 1 : single layout
+Shift + alt + 2 : two columns layout
+Shift + alt + 8 : two rows layout
+
+key bindings list:
+Preferences->Key Bindings - Default
+
+Command + T: Go to File
+Command + R: Go to Symbol
+Command + P: Go to Anything
+```
+
 ###more info
 https://medium.com/kr-projects/4f06541322a8
 
-###Shortcuts
-
-Shift + Command + P: Command Palette
-
-Command + T: Go to File
-
-Command + R: Go to Symbol
-
-Command + P: Go to Anything
+http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
 
 
 ###Plugins
