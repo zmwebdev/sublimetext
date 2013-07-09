@@ -24,6 +24,11 @@ Shift + alt + 1 : single layout
 Shift + alt + 2 : two columns layout
 Shift + alt + 8 : two rows layout
 
+crtl + 1: switch to 1 panel 
+ctrl + 2: switch to 2 panel
+ctrl + shift + 1 : move the current tab to 1 panel
+ctrl + shift + 2 : move the current tab to 2 panel
+
 key bindings list:
 Preferences->Key Bindings - Default
 
