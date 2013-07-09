@@ -28,6 +28,8 @@ crtl + 1: switch to 1 panel
 ctrl + 2: switch to 2 panel
 ctrl + shift + 1 : move the current tab to 1 panel
 ctrl + shift + 2 : move the current tab to 2 panel
+alt + 1 : switch to 1 tab (in the same panel)
+alt + 1 : switch to 2 tab
 
 key bindings list:
 Preferences->Key Bindings - Default
