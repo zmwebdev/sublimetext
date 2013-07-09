@@ -7,6 +7,9 @@ sublimetext
  * Soda theme Dark: https://github.com/buymeasoda/soda-theme/
  * Tomorrow Night color scheme: https://github.com/chriskempson/tomorrow-theme/tree/master/textmate
  * copy config file to local: 
+ ```bash
+ $ curl -O https://raw.github.com/irakasleibiltaria/sublimetext/master/Preferences.sublime-settings
+ ```
 
 ###more info
 https://medium.com/kr-projects/4f06541322a8
