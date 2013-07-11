@@ -15,6 +15,8 @@ $ curl -O https://raw.github.com/irakasleibiltaria/sublimetext/master/Preference
 
 ###Shortcuts
 https://gist.github.com/eteanga/1736542
+
+http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
 ```bash
 Shift + Command + P: Command Palette
 Shift + Command + P, side : toggle side bar
