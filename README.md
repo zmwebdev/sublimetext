@@ -1,6 +1,17 @@
 sublimetext
 ===========
 
+### Ubuntu install
+https://launchpad.net/~webupd8team/+archive/sublime-text-2
+
+https://launchpad.net/~webupd8team/+archive/sublime-text-3
+
+```bash
+$ sudo add-apt-repository ppa:webupd8team/sublime-text-2
+$ sudo aptitude update
+$ sudo aptitude install sublime-text
+```
+
 ###Configuration steps:
 * install Sublime Package Control
 * install using PackControl: http://wbond.net/sublime_packages/package_control
