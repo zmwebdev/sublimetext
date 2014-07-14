@@ -71,3 +71,6 @@ Sublime Linter
 Sublime CodeIntel
 
 kCode and More
+
+Print
+https://github.com/n1k0/SublimeHighlight
