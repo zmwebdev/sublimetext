@@ -21,7 +21,7 @@ $ sudo aptitude install sublime-text
  
 ```bash
 $ cd $HOME/.config/sublime-text-2/Packages/User
-$ curl -O https://raw.github.com/irakasleibiltaria/sublimetext/master/Preferences.sublime-settings
+$ wget https://raw.github.com/irakasleibiltaria/sublimetext/master/Preferences.sublime-settings
 (mac osx: $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/)
 ```
 
