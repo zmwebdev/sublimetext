@@ -68,7 +68,7 @@ Package Control
 
 Sublime Linter
 
-Sublime CodeIntel
+[Sublime CodeIntel. Code completion](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
 kCode and More
 
