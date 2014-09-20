@@ -68,6 +68,10 @@ Package Control
 
 Sublime Linter
 
+https://sublime.wbond.net/packages/SublimeLinter-jshint
+
+other linter
+
 [Sublime CodeIntel. Code completion](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
 kCode and More
