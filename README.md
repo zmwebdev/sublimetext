@@ -68,6 +68,8 @@ Package Control
 
 Sublime Linter
 
+http://sublimelinter.readthedocs.org/
+
 https://sublime.wbond.net/packages/SublimeLinter-jshint
 
 other linter
