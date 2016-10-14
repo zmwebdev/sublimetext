@@ -26,6 +26,9 @@ $ wget https://raw.github.com/irakasleibiltaria/sublimetext/master/Preferences.s
 ```
 
 ###Shortcuts
+
+Insert Commnents: http://stackoverflow.com/questions/17742781/keyboard-shortcut-to-comment-lines-in-sublime-text-3
+
 https://gist.github.com/eteanga/1736542
 
 http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html
